@@ -9,4 +9,4 @@
   
 • Incorporated gender segmentation to provide targeted insights into preferences and perceptions across different programming languages, salary satisfaction levels, and work/life balance.
   
-• Utilized interactive visualizations to highlight trends and correlations, enabling stakeholders to make informed decisions based on the survey findings.
+• Utilized interactive visualizations to highlight trends and correlations.
