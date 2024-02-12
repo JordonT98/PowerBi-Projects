@@ -11,6 +11,8 @@
   
 • Utilized interactive visualizations to highlight trends and correlations.
 
+●	Transformed and processed data by using Excel to ensure data completeness and validity
+
 [Hotel Booking Market](https://github.com/JordonT98/PowerBi-Projects/blob/main/Hotel%20Booking%20Market.pbix)
 
 ![image](https://github.com/JordonT98/PowerBi-Projects/assets/158506708/28283324-7231-4e49-8d7e-3883e4c6574a)
